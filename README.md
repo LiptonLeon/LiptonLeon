@@ -3,7 +3,7 @@ Hi! My name is LiptonLeon. I'm studying CS and starting my gamedev adventure.
 
 Crewmate of Dizzy Jellyfish Studios.
 
-Proud Godot user :P
+Proud Godot user 😋
 
 ## Games: ##
 Graveyard of Time: https://vimeo.com/564761470
