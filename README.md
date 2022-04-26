@@ -1,7 +1,7 @@
 ## About me ##
 Hi! My name is LiptonLeon. I'm studying CS and starting my gamedev adventure.
 
-Crewmate of @Dizzy-Jellyfish-Studios.
+Crewmate of Dizzy Jellyfish Studios.
 
 Proud Godot user and amateur pixelart creator.
 
