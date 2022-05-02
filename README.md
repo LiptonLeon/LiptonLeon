@@ -1,5 +1,5 @@
 ## About me ##
-Hi! My name is LiptonLeon. I'm studying CS and starting my gamedev adventure.
+Hi! My name is LiptonLeon. I'm studying cs and starting my gamedev adventure.
 
 Crewmate of Dizzy Jellyfish Studios.
 
