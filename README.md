@@ -1,7 +1,7 @@
 ## About me ##
 Hi! My name is LiptonLeon. I'm studying cs and starting my gamedev adventure.
 
-Crewmate of Dizzy Jellyfish Studios.
+Crewmate of Dizzy Jellyfish Studio and Exotic Butters.
 
 Proud Godot user 😋
 
