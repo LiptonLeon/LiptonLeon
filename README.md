@@ -1,14 +1,9 @@
 ## About me ##
-Hi! My name is LiptonLeon. I'm studying cs and starting my gamedev adventure.
-
-Crewmate of Dizzy Jellyfish Studio and Exotic Butters.
-
-Proud Godot user 😋
+Hi! My name is LiptonLeon. I'm studying cs and starting my gamedev adventure. Crewmate of Dizzy Jellyfish Studio and Exotic Butters. Proud Godot user 😋
 
 ## Games: ##
-Graveyard of Time: https://vimeo.com/564761470
-
-Kapsle Racing: https://liptonleon.itch.io/kapsle-racing
+- Graveyard of Time: https://liptonleon.itch.io/graveyard-of-time
+- Kapsle Racing: https://liptonleon.itch.io/kapsle-racing
 
 ### Oh, I create pixel art in my free time as well: ###
 
