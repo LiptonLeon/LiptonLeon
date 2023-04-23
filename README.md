@@ -1,11 +1,14 @@
 ## About me ##
-Hi! My name is LiptonLeon. I'm studying cs and starting my gamedev adventure. Crewmate of Dizzy Jellyfish Studio and Exotic Butters. Proud Godot user 😋
+Hi! My name is LiptonLeon. I'm studying at Technical University of Lodz and learning how to make cool games.
+My engine of choice is Godot, but I've worked a bit in Unity and Unreal as well.
 
-## Games: ##
-- Graveyard of Time: https://liptonleon.itch.io/graveyard-of-time
-- Kapsle Racing: https://liptonleon.itch.io/kapsle-racing
+## Games I worked on: ##
+- Graveyard of Time:  https://liptonleon.itch.io/graveyard-of-time
+- Kapsle Racing:      https://liptonleon.itch.io/kapsle-racing
+- Thin LED Line:      https://liptonleon.itch.io/thin-led-line
+- Nycto:              https://liptonleon.itch.io/nycto
 
-### Oh, I create pixel art in my free time as well: ###
+### Also I seldom create some pixel art: ###
 
 ![pixel_oscyloskop_historia_512x512](https://user-images.githubusercontent.com/93220207/165401639-f0410edf-a2f3-479a-9af4-bd94f74a2667.gif)
 
