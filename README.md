@@ -8,10 +8,8 @@ My engine of choice is Godot, but I've worked a bit in Unity and Unreal as well.
 - Thin LED Line:      https://liptonleon.itch.io/thin-led-line
 - Nycto:              https://liptonleon.itch.io/nycto
 
-### Also I seldom create some pixel art: ###
+### No one asked, but here's my pixel art: ###
 
-![pixel_oscyloskop_historia_512x512](https://user-images.githubusercontent.com/93220207/165401639-f0410edf-a2f3-479a-9af4-bd94f74a2667.gif)
-
-![pixelart_owalski_timelapse_anim_512x512](https://user-images.githubusercontent.com/93220207/166160026-a15a8b5d-7d00-4099-b127-0439b9b91424.gif)
-
-![pixelart_alchemy_timelapse](https://user-images.githubusercontent.com/93220207/181017774-e2e78d1e-322b-4ef5-978f-c8129d6a8bde.gif)
+<img src="https://user-images.githubusercontent.com/93220207/165401639-f0410edf-a2f3-479a-9af4-bd94f74a2667.gif" width="256"/>
+<img src="https://user-images.githubusercontent.com/93220207/166160026-a15a8b5d-7d00-4099-b127-0439b9b91424.gif" width="256"/>
+<img src="https://user-images.githubusercontent.com/93220207/181017774-e2e78d1e-322b-4ef5-978f-c8129d6a8bde.gif" width="384"/>
