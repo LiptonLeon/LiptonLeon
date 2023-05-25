@@ -1,14 +1,15 @@
-## About me ##
-Hi! My name is LiptonLeon. I'm studying at Technical University of Lodz and learning how to make cool games.
-My engine of choice is Godot, but I've worked a bit in Unity and Unreal as well.
+# About me #
+### Hello, I'm LiptonLeon 😄
 
-## Games I worked on: ##
-- Graveyard of Time:  https://liptonleon.itch.io/graveyard-of-time
-- Kapsle Racing:      https://liptonleon.itch.io/kapsle-racing
-- Thin LED Line:      https://liptonleon.itch.io/thin-led-line
-- Nycto:              https://liptonleon.itch.io/nycto
+I'm currently studying Information Technology at Technical University of Lodz and learning how to make cool games. My engine of choice is Godot, but I've used Unity and Unreal as well.
 
-### No one asked, but here's my pixel art: ###
+# Games I worked on #
+- [Graveyard of Time](https://liptonleon.itch.io/graveyard-of-time)
+- [Kapsle Racing](https://liptonleon.itch.io/kapsle-racing)
+- [Thin LED Line](https://liptonleon.itch.io/thin-led-line)
+- [Nycto](https://liptonleon.itch.io/nycto)
+
+# Pixel art made by me #
 
 <div style="display: inline-block;">
 <img src="https://user-images.githubusercontent.com/93220207/165401639-f0410edf-a2f3-479a-9af4-bd94f74a2667.gif" width="256"/>
