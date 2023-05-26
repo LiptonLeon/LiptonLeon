@@ -1,7 +1,7 @@
 # About me #
 ### Hello, I'm LiptonLeon 😄
 
-I'm currently studying Information Technology at Technical University of Lodz and learning how to make cool games. My engine of choice is Godot, but I've used Unity and Unreal as well.
+I am currently studying Computer Science at Technical University of Lodz and learning how to make cool games. My engine of choice is Godot, but I have used Unity and Unreal as well.
 
 # Games I worked on #
 - [Graveyard of Time](https://liptonleon.itch.io/graveyard-of-time)
