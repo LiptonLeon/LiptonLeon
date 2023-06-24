@@ -6,8 +6,9 @@ I am currently studying Computer Science at Technical University of Lodz and lea
 # Games I worked on #
 - [Graveyard of Time](https://liptonleon.itch.io/graveyard-of-time)
 - [Kapsle Racing](https://liptonleon.itch.io/kapsle-racing)
-- [Thin LED Line](https://liptonleon.itch.io/thin-led-line)
+- [Thin LED Line](https://dizzyjellyfishstudios.itch.io/thin-led-line)
 - [Nycto](https://liptonleon.itch.io/nycto)
+- [AiPost](https://tollto.itch.io/aipost)
 
 # Pixel art made by me #
 
