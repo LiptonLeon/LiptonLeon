@@ -4,11 +4,13 @@
 I am currently studying Computer Science at Technical University of Lodz and learning how to make cool games. My engine of choice is Godot, but I have used Unity and Unreal as well.
 
 # Games I've worked on #
-- [Graveyard of Time](https://liptonleon.itch.io/graveyard-of-time)
-- [Kapsle Racing](https://liptonleon.itch.io/kapsle-racing)
-- [Thin LED Line](https://dizzyjellyfishstudios.itch.io/thin-led-line)
-- [Nycto](https://liptonleon.itch.io/nycto)
 - [AiPost](https://tollto.itch.io/aipost)
+- [Nycto](https://liptonleon.itch.io/nycto)
+- [Thin LED Line](https://dizzyjellyfishstudios.itch.io/thin-led-line)
+- [Plunge: The Descend](https://liptonleon.itch.io/plunge-the-descent)
+- [Kapsle Racing](https://liptonleon.itch.io/kapsle-racing)
+- [Graveyard of Time](https://liptonleon.itch.io/graveyard-of-time)
+
 
 # Pixel art created by me #
 
