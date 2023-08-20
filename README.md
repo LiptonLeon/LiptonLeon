@@ -9,9 +9,8 @@ I am currently studying Computer Science at Technical University of Lodz and lea
 [<img alt="Thin LED Line" src="res/kabelki.png" title="Thin LED Line"/>](https://dizzyjellyfishstudios.itch.io/thin-led-line)
 [<img alt="Nycto" src="res/nycto.png" title="Nycto"/>](https://liptonleon.itch.io/nycto)
 
-<div align="left"><div/>
-
 ### [And many more!](https://liptonleon.itch.io/) ###
+<br>
 
 # Pixel art (why did I put it on GitHub?) #
 
