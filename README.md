@@ -5,10 +5,9 @@ I am currently studying Computer Science at Technical University of Lodz and lea
 
 # Game projects #
 
-[<img width="190px" alt="AiPost" src="https://img.itch.zone/aW1nLzEyNTQ3MzUxLnBuZw==/original/omSyG8.png" title="AiPost" width="410"/>](https://tollto.itch.io/aipost)
-[<img width="255px" alt="Thin LED Line" src="https://img.itch.zone/aW1nLzEyNTY4MTkyLnBuZw==/315x250%23c/sEIFsV.png" title="Thin LED Line" width="410"/>](https://dizzyjellyfishstudios.itch.io/thin-led-line)
-[<img height="128px" alt="Nycto" src="https://img.itch.zone/aW1nLzExNzU0MDk4LnBuZw==/original/qLfI8N.png" title="Nycto" width="410"/>](https://liptonleon.itch.io/nycto)
-![obraz](https://github.com/LiptonLeon/LiptonLeon/assets/93220207/ed7b39c1-4849-470b-9405-f7087d54b848)
+[<img alt="AiPost" src="aipost.png" title="AiPost"/>](https://tollto.itch.io/aipost)
+[<img alt="Thin LED Line" src="kabelki.png" title="Thin LED Line"/>](https://dizzyjellyfishstudios.itch.io/thin-led-line)
+[<img alt="Nycto" src="nycto.png" title="Nycto"/>](https://liptonleon.itch.io/nycto)
 
 <div align="left"><div/>
 
