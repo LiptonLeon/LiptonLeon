@@ -1,5 +1,5 @@
 # About me #
-### Hello, I'm LiptonLeon 😄
+### Hello! 😄
 
 I am currently studying Computer Science at Lodz University of Technology and learning how to make cool games. My engine of choice is Godot, but I have experience with Unity and Unreal as well.
 
