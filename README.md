@@ -1,7 +1,7 @@
 # About me #
 ### Hello! 😄
 
-I am currently studying Computer Science at Lodz University of Technology and learning how to make cool games. My engine of choice is Godot, but I have experience with Unity and Unreal as well.
+Bachelor of Computer Science at Technical University of Lodz. Fan of racing games and DnD. I've started my gamdev journey 4 years ago. My first (and favourite) engine is Godot, but currently I'm working on two Unity projects. I've also got some experience with Unreal Engine.
 
 # Game projects #
 
@@ -11,8 +11,6 @@ I am currently studying Computer Science at Lodz University of Technology and le
 
 ### [And many more!](https://liptonleon.itch.io/) ###
 <br>
-
-# Pixel art (why did I put it on GitHub?) #
 
 <img src="https://github.com/LiptonLeon/LiptonLeon/assets/93220207/a79b96b5-e09e-40c4-b843-c6d9c24cc75d" height="194"/>
 <img src="https://github.com/LiptonLeon/LiptonLeon/assets/93220207/a0805b2b-fe84-4c99-a1c2-f4789634943b" height="194"/> 
