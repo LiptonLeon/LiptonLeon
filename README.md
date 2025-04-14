@@ -1,7 +1,7 @@
 # About me #
 ### Hello! 😄
 
-Bachelor of Computer Science at Technical University of Lodz. Fan of racing games and DnD. I've started my gamdev journey 4 years ago. My first (and favourite) engine is Godot, but currently I'm working on two Unity projects. I've also got some experience with Unreal Engine.
+Bachelor of Computer Science at Technical University of Lodz. I'm creating video games since 2020. Proficient in game engines such as: Unity, Unreal Engine, Godot but also technologies such as OpenGL, SDL, Raylib. My main responsibilites are implementing polished UIs and scalable code behind game mechanics.
 
 # Game engine project
 
@@ -11,7 +11,7 @@ During CS course at TUL we were required to create a video game using custom mad
 
 [<img alt="AiPost" src="res/aipost.png" title="AiPost"/>](https://tollto.itch.io/aipost)
 [<img alt="Thin LED Line" src="res/kabelki.png" title="Thin LED Line"/>](https://dizzyjellyfishstudios.itch.io/thin-led-line)
-[<img alt="Nycto" src="res/nycto.png" title="Nycto"/>](https://liptonleon.itch.io/nycto)
+[<img alt="Nycto" src="res/nycto.png" title="Nycto"/>]([https://liptonleon.itch.io/nycto](https://gleaminggeckos.itch.io/nycto))
 
 ### [And many more!](https://liptonleon.itch.io/) ###
 <br>
